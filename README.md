@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abuba455
-- 👀 I’m interested in jaca
-- 🌱 I’m currently learning web design 
+- 🌱 I’m an intermidiate web design 
 - 💞️ I’m looking to collaborate on designing  
 - 📫 How to reach me 0264768363
 
